@@ -1,7 +1,7 @@
-family = 'wikipedia'
-mylang = 'shi'
+family = 'wikipedia' 
+mylang = 'xxx'
 
-usernames['wikipedia']['shi'] = 'BotFunast'
+usernames['wikipedia']['xxx'] = 'bot_username'
 password_file="password.txt"
 
 console_encoding='utf-8'
