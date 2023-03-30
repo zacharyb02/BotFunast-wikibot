@@ -35,7 +35,7 @@ for contributor in LAST_CONTR:
     else:
         temp_text = user_talk_page.text
         if WELCOME not in temp_text:
-            if "{{Talɣa:Asbrrk}}" not in temp_text:
+            if "{{Template:Welcome}}" not in temp_text:
                 if "REDIRECT" not in temp_text:
                     if "redirect" not in temp_text:
                         temp_text = WELCOME + '--~~~~ \n' + temp_text
