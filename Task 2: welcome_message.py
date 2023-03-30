@@ -1,10 +1,10 @@
 import pywikibot
 from copy import deepcopy
 
-WELCOME = "{{Asbrrk}}"
-SAVE_MESSAGE = "Asbrrk n usmras"
+WELCOME = "{{}}"
+SAVE_MESSAGE = ""
 
-ACTIF_USERS=['BotFunast']
+ACTIF_USERS=['']
 
 site = pywikibot.Site()
 
