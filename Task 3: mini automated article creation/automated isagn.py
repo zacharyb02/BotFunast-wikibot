@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import pywikibot
 
-SAVE_MESSAGE='Asnflul n tasna n uḍwwaṛ'
+SAVE_MESSAGE=""
 
 data=pd.read_csv("final_data_awgnz.csv",delimiter=";")
 data2=data[["nb_hab","nb_fam","name","ar_name"]]
