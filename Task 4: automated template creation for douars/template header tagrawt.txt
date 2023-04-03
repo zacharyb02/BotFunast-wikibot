@@ -1,0 +1,4 @@
+<div style="font-size:90%;margin-top:20px;margin-bottom:20px;" align="center">
+{| class="mw-collapsible" style="width:100%;background:#FDFDFD;border:1px solid #d0d0d0;padding:.2em;margin:auto;"
+! colspan="4" style="background:#CCCCFF" |[[Afaylu:Flag_of_Morocco.svg|18x18px]] [[shi_tagrawt]]
+|-
