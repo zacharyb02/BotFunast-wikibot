@@ -90,8 +90,8 @@ def create_article_2014(x):
 
          if temp_text=='':
 
-             if np.isnan(df.iloc[i, 10])==X:
-                 text_adwwar=create_article_2014(i)
+             #if np.isnan(df.iloc[i, 10])==X:
+             text_adwwar=create_article_2014(i)
 
              #else:
                  #text_adwwar=create_article_2004(i)
